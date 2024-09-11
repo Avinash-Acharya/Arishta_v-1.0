@@ -1,4 +1,4 @@
-# Arishtha Browser
+# Arishta Browser
 
 A simple web browser built with Electron and React.
 
